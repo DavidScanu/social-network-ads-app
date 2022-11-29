@@ -2,6 +2,8 @@
 
 *Harold Petiard, Geoffroy Daumer, Slava Oswald, David Scanu*
 
+V1 : 
+
 * Notebook files : https://github.com/DavidScanu/social-network-ads-nb
 * App files : https://github.com/DavidScanu/social-network-ads-nb
 * Streamlit app : https://social-network-ads.streamlit.app
