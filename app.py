@@ -19,7 +19,7 @@ def prediction(age, salary):
 
     if age and salary:
 
-        X = [[int(age), int(salary)]]
+        X = [[int(age), float(salary)]]
         # Mise à l'échelle
         X_scaled = scaler.transform(X)
         # Prédiction
